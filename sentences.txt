@@ -1,0 +1,23 @@
+Zrozumieć podstawowe zasady programowania jest kluczem dla programisty.
+Planuj swoje oprogramowanie zanim przystąpisz do pisania kodu.
+Twórz czytelny i modułowy kod, który będzie łatwy do zrozumienia.
+Pisz testy aby zobaczyć, czy kod działa zgodnie z projektem.
+Korzystaj z systemu kontroli wersji, by śledzić zmiany w kodzie.
+Nie boj się zgłaszać błędów jeśli znajdziesz jakiekolwiek problemy.
+Regularnie aktualizuj swoje umiejętności programistyczne.
+Dokumentuj swój kod, aby ułatwić zrozumienie przez innych programistów.
+Bądź cierpliwy i metodyczny, aby znaleźć i naprawić błędy w swoim kodzie.
+Kontynuuj naukę i poszerzanie swojej wiedzy programistycznej.
+Komunikuj się z innymi członkami zespołu w celu wymiany opinii.
+Pamiętaj o zasadzie Keep It Simple, Stupid i stawiaj na prostotę rozwiązań.
+Zadawaj pytania i nie wahaj się prosić o pomoc, gdy napotkasz trudności.
+Pracuj zgodnie z najlepszymi praktykami tworzenia dokumentacji.
+Bądź elastyczny i gotów na zmiany, ponieważ branża stale się rozwija.
+Twórz kod, który jest elastyczny i łatwy do utrzymania.
+Przetestuj swoje rozwiązania na różnych platformach i urządzeniach.
+Pisz komentarze w swoim kodzie, aby inni mogli zrozumieć Twój kod.
+Uważaj na potencjalne pułapki bezpieczeństwa.
+Pracuj w zgodzie z zespołem i uczestnicz w codziennych spotkaniach.
+Twórz kod, który jest możliwie najbardziej niezawodny i odporny na błędy.
+Bądź otwarty na opinie innych programistów i gotowy do współpracy.
+Pamiętaj, że sukces jako programista zależy od nieustannego uczenia się.
