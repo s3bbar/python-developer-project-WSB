@@ -151,6 +151,6 @@ class Game:
 
         pygame.display.update()
 
-# Pętla główna
+# Pętla główna programu
 if __name__ == "__main__":
     Game().run()

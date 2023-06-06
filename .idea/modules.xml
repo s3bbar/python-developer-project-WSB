@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/python-dwveloper-project.iml" filepath="$PROJECT_DIR$/.idea/python-dwveloper-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test-szybkosci-pisania/.idea/python-developer-project.iml" filepath="$PROJECT_DIR$/../test-szybkosci-pisania/.idea/python-developer-project.iml" />
     </modules>
   </component>
 </project>
