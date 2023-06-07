@@ -1,6 +1,6 @@
 # Test szybkości pisania
 
-To jest prosta gra testująca szybkość pisania. Zadaniem gracza jest wpisywanie wylosowanych zdań jak najszybciej i jak najdokładniej. Gra mierzy czas, dokładność i liczbę słów na minutę.
+To jest prosta gra testująca szybkość pisania. Zadaniem użytkownika jest wpisywanie wylosowanych zdań jak najszybciej i jak najdokładniej. Gra mierzy czas, dokładność i liczbę słów na minutę.
 
 ## Jak zagrać
 
